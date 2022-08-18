@@ -1,0 +1,7 @@
+#!C:\Users\sarod\PycharmProjects\Mobile price prediction\venv\Scripts\python.exe
+
+import sys
+from streamline.cli import streamline_command
+
+if __name__ == '__main__':
+    streamline_command(sys.argv[1:])
